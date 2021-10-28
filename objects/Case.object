@@ -1065,7 +1065,7 @@
         <externalId>false</externalId>
         <label>Do not move to UAT</label>
         <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
+        <trackHistory>true</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
