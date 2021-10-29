@@ -1060,13 +1060,23 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-        <fullName>Do_not_move_to_UATcase__c</fullName>
+        <fullName>Do_not_move_to_UAT__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Do not move to UAT</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Do_not_move_to_UATcase__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Do not move to UAT</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>true</trackTrending>
         <type>Checkbox</type>
     </fields>
     <fields>
